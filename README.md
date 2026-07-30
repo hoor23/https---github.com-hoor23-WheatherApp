@@ -28,8 +28,8 @@ WHEATHER_APP
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/https---github.com-hoor23-WheatherApp.git](https://github.com/hoor23/https---github.com-hoor23-WheatherApp.git)
-- Live Site URL: [ https://hoor23.github.io/https---github.com-hoor23-WheatherApp/]( https://hoor23.github.io/https---github.com-hoor23-WheatherApp/)
+- Solution: [https://github.com/HooriaSaeeda/WeatherApp.git](https://github.com/HooriaSaeeda/WeatherApp.git)
+- Live Site URL: [https://hooriasaeeda.github.io/WeatherApp/](https://hooriasaeeda.github.io/WeatherApp/)
 
 ## My process
 
@@ -88,9 +88,10 @@ I plan to improve this app by:
 - Optimizing the app for better performance on slower networks
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
+
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
